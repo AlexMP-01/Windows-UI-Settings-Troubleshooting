@@ -12,3 +12,6 @@ Basic Windows UI Settings Summary:
 -Enable Night Light under Settings > System > Display for additional eye comfort during nighttime use.
 
 -Customizing specific apps: Some applications like Microsoft Edge or Office also have independent Dark Mode settings.
+
+https://nighteye.app/techradar-dark-mode/
+https://www.windowscentral.com/how-use-themes-personalize-desktop-windows-11
