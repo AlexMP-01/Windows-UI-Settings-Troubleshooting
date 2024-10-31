@@ -13,5 +13,7 @@ Basic Windows UI Settings Summary:
 
 -Customizing specific apps: Some applications like Microsoft Edge or Office also have independent Dark Mode settings.
 
+[dark_mode_screenshot](https://github.com/user-attachments/assets/e48a2aa6-a059-4f69-b785-a5c4edb4f7cb)
+
 https://nighteye.app/techradar-dark-mode/
 https://www.windowscentral.com/how-use-themes-personalize-desktop-windows-11
